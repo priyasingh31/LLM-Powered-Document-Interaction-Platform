@@ -1,0 +1,25 @@
+Here are the projects described from the provided content:
+
+1. **Image Classification using CNN**:
+	* Project duration: Feb 2024 – Mar 2024
+	* Utilized CIFAR-100 dataset with 60,000 color images
+	* Performed data handling tasks like loading, normalization, and augmentation
+	* Trained a suitable image classification model on the preprocessed data
+	* Evaluated the trained model's performance using metrics on a held-out test set
+2. **Stock Analysis**:
+	* Project duration: Jul 2024 – Jul 2024
+	* Utilized yfinance library to fetch historical stock price data
+	* Employed Pandas and NumPy for data manipulation and cleaning
+	* Created interactive plots using Matplotlib to display stock price trends
+	* Enhanced user interaction by enabling dynamic updates of the visualization
+3. **LLM-Powered Document Interaction Platform**:
+	* Project duration: Jul 2024 – Aug 2024
+	* Uploading and processing multiple PDF files, extracting text and creating document chunks
+	* Converting text chunks into numerical representations for efficient search and comparison
+	* Utilizing a language model to understand and respond to user queries based on document content
+	* Providing a platform for users to upload documents, input queries, and view results
+4. **Ask from pdf**:
+	* Project duration: Feb 2024 – Mar 2024
+	* Utilized Streamlit to build an interactive web application for uploading PDFs and interacting with the system
+	* Leveraged Langchain to split extracted text into smaller chunks, create embeddings, and manage data structure
+	* Integrated OpenAI's language models through the OpenAI API to provide accurate answers based on user queries and PDF content

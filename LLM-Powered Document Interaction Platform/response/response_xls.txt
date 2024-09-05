@@ -1,0 +1,52 @@
+Here is the data with only the "First Name" column for individuals from the United States:
+
+0 Dulce
+3 Philip
+4 Kathleen
+5 Nereida
+6 Gaston
+7 Earlean
+8 Vincenza
+9 Fallon
+10 Arcelia
+11 Franklyn
+12 Sherron
+13 Marcel
+14 Kina
+15 Shavonne
+16 Shavon
+17 Lauralee
+18 Loreta
+19 Teresa
+20 Belinda
+21 Holly
+22 Many
+23 Libbie
+24 Lester
+25 Marvel
+26 Angelyn
+27 Francesca
+28 Garth
+29 Carla
+30 Veta
+31 Stasia
+32 Jona
+33 Judie
+34 Dewitt
+35 Nena
+36 Kelsie
+37 Sau
+38 Shanice
+39 Chase
+40 Tommie
+41 Dorcas
+42 Angel
+43 Willodean
+44 Weston
+45 Roma
+46 Felisa
+47 Demetria
+48 Jeromy
+49 Rasheeda
+
+Let me know if you'd like to filter by any other column!

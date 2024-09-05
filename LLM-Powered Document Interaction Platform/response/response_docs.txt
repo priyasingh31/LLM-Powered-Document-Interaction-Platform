@@ -1,0 +1,31 @@
+Here are the answers to the first 5 short questions:
+
+**1. What is the major revolution introduced by Web 2.0?**
+
+The major revolution introduced by Web 2.0 was the shift from static websites to dynamic, interactive, and user-generated content-driven websites.
+
+**2. What is Multi-tenancy?**
+
+Multi-tenancy refers to a cloud computing model where multiple customers (or tenants) share the same physical infrastructure, but with separate virtualized environments.
+
+**3. Give two names of popular Software as a Service solutions.**
+
+Two popular SaaS solutions are:
+
+a) Salesforce
+b) Microsoft Office 365
+
+**4. List some driving factor toward clouds.**
+
+Some driving factors towards cloud computing include:
+
+a) Cost savings
+b) Scalability and flexibility
+c) Increased collaboration and productivity
+d) Improved disaster recovery and business continuity
+
+**5. Define SSL.**
+
+SSL (Secure Sockets Layer) is a protocol used to secure online communications between a web browser and a server, ensuring that data transmitted between them remains confidential and tamper-proof.
+
+Let me know if you'd like me to answer the next 5 questions!

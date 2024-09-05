@@ -1,0 +1,23 @@
+Here is the equivalent SQL query in BigQuery:
+```
+SELECT
+  DATE(purchase_date) AS date_only,
+  purchase_price
+FROM
+  `customer_data.customer_purchase`
+```
+Note:
+
+* In BigQuery, you don't need to use square brackets `[]` around table or column names.
+* The `DATE()` function is used to extract the date part from a datetime value. This is equivalent to `CAST(date AS date)` in SQL Server.
+* The table name and schema (`customer_data.customer_purchase`) are specified using backticks ``, which is the standard way to quote identifiers in BigQuery.
+
+Also, if you want to run this query on a dataset named `customer_data` located in the default project, you can use:
+```
+SELECT
+  DATE(purchase_date) AS date_only,
+  purchase_price
+FROM
+  customer_purchase
+```
+Make sure to replace the table name and schema with your actual BigQuery data.
